@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+ 
 namespace practice6_10
 {
     class GClass<T>
