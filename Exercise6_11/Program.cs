@@ -12,7 +12,7 @@ namespace Exercise6_11
         public void swap()
         {
             T temp;
-            temp = x; x = y; y = temp; // T 자료형의 temp를 이용해 변수 값을 바꿈
+            temp = x; x = y; y = temp; // T 자료형의 temp를 이용해 변수 값을 바꿈 
         }
     }
     public class ExerciseCh06_11
