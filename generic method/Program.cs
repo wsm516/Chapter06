@@ -39,4 +39,4 @@ namespace generic_method
             Console.WriteLine(empIds.GetData(0));
         }
     }
-}
+} 
