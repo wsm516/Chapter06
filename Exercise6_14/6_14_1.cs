@@ -24,7 +24,7 @@ namespace Exercise6_14
                 catch (IOException)
                 {
                     Console.WriteLine("파일이 존재하지 않습니다.");
-                    continue; // 파일을 열 수 없을 경우 예외 처리를 하고 반복문의 처음으로 돌아감
+                    continue; // 파일을 열 수 없을 경우 예외 처리를 하고 반복문의 처음으로 돌아감 
                 }
                 break; // 파일이 오픈되었을 경우 반복문을 빠져나옴
             }
