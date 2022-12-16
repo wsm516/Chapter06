@@ -19,7 +19,7 @@ namespace Exercise6_11
     {
         public static void Main(String[] args)
         {
-            GenericSwap<int> i = new GenericSwap<int>(); // int 자료형의 제네릭 객체 생성
+            GenericSwap<int> i = new GenericSwap<int>(); // int 자료형의 제네릭 객체 생성 
             i.x = 1; i.y = 2;
             Console.WriteLine("x: " + i.x + " y: " + i.y);
             i.swap();
