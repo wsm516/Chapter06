@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercise6_11
+namespace Exercise6_11 
 {
     class GenericSwap<T>
     {
