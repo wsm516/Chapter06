@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-
+ 
 namespace practice6_10
 {
     class SimpleThread
