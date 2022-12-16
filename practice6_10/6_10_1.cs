@@ -31,3 +31,4 @@ namespace practice6_10
         }
     }
 }
+ 
