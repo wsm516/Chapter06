@@ -19,7 +19,7 @@ namespace Exercise6_14
                 s = Console.ReadLine(); // 파일 이름을 입력 
                 try
                 {
-                    fs = new FileStream(s, FileMode.Open); // s이름의 파일을 오픈함
+                    fs = new FileStream(s, FileMode.Open); // s이름의 파일을 오픈함 
                 }
                 catch (IOException)
                 {
