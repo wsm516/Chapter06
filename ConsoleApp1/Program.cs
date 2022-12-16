@@ -35,4 +35,4 @@ public class ExerciseCh06_11
         d.swap();
         Console.WriteLine("x: " + d.x + " y: " + d.y);
     }
-}
+} 
