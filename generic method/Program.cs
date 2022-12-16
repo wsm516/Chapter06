@@ -41,3 +41,4 @@ namespace generic_method
     }
 } 
  
+ 
